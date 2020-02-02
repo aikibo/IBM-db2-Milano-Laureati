@@ -1939,7 +1939,7 @@ NAZIONE.DataFrame()
   </tbody>
 </table>
 <p>375 rows × 5 columns</p>
-<details>
+</details>
 
 
 ### **Calcolo del totale di laureati nel 2017**
