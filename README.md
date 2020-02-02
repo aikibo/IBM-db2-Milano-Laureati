@@ -93,7 +93,7 @@ ATENEO.DataFrame()
 ```
 
 <details>
-  <summary>👀 Expand to show the table</summary>
+  <summary>👀 Espandi tutta la tabella</summary>
 
 <table border="1" class="dataframe">
   <thead>
@@ -784,7 +784,6 @@ ATENEO.DataFrame()
   </tbody>
 </table>
 <p>640 rows × 8 columns</p>
-
 </details>
 
 
@@ -796,6 +795,8 @@ GENERE.DataFrame()
 ```
 
 
+<details>
+  <summary>👀 Espandi tutta la tabella</summary>
 
 <table border="1" class="dataframe">
   <thead>
@@ -1424,7 +1425,7 @@ GENERE.DataFrame()
   </tbody>
 </table>
 <p>655 rows × 7 columns</p>
-
+</details>
 
 ```python
 #MILANO_LAUREATI_NAZIONE
@@ -1432,7 +1433,8 @@ NAZIONE= %sql select * from MILANO_LAUREATI_NAZIONE
 NAZIONE.DataFrame()
 ```
 
-
+<details>
+  <summary>👀 Espandi tutta la tabella</summary>
 
 <table border="1" class="dataframe">
   <thead>
@@ -1937,6 +1939,8 @@ NAZIONE.DataFrame()
   </tbody>
 </table>
 <p>375 rows × 5 columns</p>
+<details>
+
 
 ### **Calcolo del totale di laureati nel 2017**
 
