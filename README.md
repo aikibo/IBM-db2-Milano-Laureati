@@ -2162,7 +2162,7 @@ data
 ```
 
 
-![png](output_18_0.png)
+![png](images/output_18_0.png)
 
 
 
@@ -2338,7 +2338,7 @@ AT
 ```
 
 
-![png](output_23_0.png)
+![png](images/output_23_0.png)
 
 
 
@@ -2552,7 +2552,7 @@ CL
 ```
 
 
-![png](output_27_0.png)
+![png](images/output_27_0.png)
 
 
 
@@ -2719,7 +2719,7 @@ C_ultimo
 ```
 
 
-![png](output_29_0.png)
+![png](images/output_29_0.png)
 
 
 
@@ -2826,7 +2826,7 @@ print('Il numero di Donne laureate è pari a: ',Donne,'e corrisponde ad una perc
 ```
 
 
-![png](output_33_0.png)
+![png](images/output_33_0.png)
 
 
     Il numero di Donne laureate è pari a:  25469 e corrisponde ad una percentuale del: 56.08 % 
@@ -2968,11 +2968,11 @@ Donna
 
 
 
-![png](output_34_1.png)
+![png](images/output_34_1.png)
 
 
 
-![png](output_34_2.png)
+![png](images/output_34_2.png)
 
 
 
@@ -3189,11 +3189,11 @@ Uomo
 
 
 
-![png](output_35_1.png)
+![png](images/output_35_1.png)
 
 
 
-![png](output_35_2.png)
+![png](images/output_35_2.png)
 
 
 
@@ -3615,7 +3615,7 @@ for ax in fig.axes:
 ```
 
 
-![png](output_42_0.png)
+![png](images/output_42_0.png)
 
 
 Quello che si può osservare dalla tabella riportata sopra:
